@@ -6,9 +6,9 @@ IT
 
 
 
-#RVR&JC_IT
-##Gogulamudi Supriya
-###y19it036
-####IT
-#####second year
-######B.tech
+#Name:Gogulamudi Supriya
+##Regno:y19it036
+###Email Id:gogulamudisupriya2002@gmail.com
+####phone no:8555996922
+#####Dept:IT
+#####city:Guntur
