@@ -9,6 +9,6 @@ IT
 # Name:Gogulamudi Supriya
 ## Regno:y19it036
 ### Email Id:gogulamudisupriya2002@gmail.com
-#### College:RVRJCCE
+#### College:RVR&JC college of engineering
 ##### Dept:IT
 ##### Address:Guntur
